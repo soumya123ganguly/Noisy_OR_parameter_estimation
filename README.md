@@ -1,5 +1,5 @@
 # Noisy_OR_parameter_estimation
-We use the EM (Expectation Maximization) algorithm for the parameters of a noisy OR CPT (conditional probability tables). 
+We use the EM (Expectation Maximization) algorithm for the parameters of a noisy OR CPT (conditional probability tables).  Project completed as part of homework 6 of CSE 250A of UCSD, CSE, Fall 2022.
 
 # Tasks:
 We derive and implement an EM algorithm for estimating the noisy-OR parameters. For a detailed description of the task please consult the file 'Problem Statement and sample sol.pdf'. We convert the given problem to another equivalent one where we can apply EM algorithm. We calculate the number of misses and log-likelihoods to understand the effectiveness of this algorithm here. 
